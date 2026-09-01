@@ -125,7 +125,7 @@ Sunday         26 commits     ██░░░░░░░░░░░░░░�
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=BenjaLagos&theme=dark&hide_border=true&background=0B0F14&ring=88C0D0&fire=88C0D0&currStreakLabel=88C0D0&sideLabels=D8DEE9&dates=616E88&currStreakNum=ECEFF4&sideNums=ECEFF4"
+    src="./profile/streak.svg"
     alt="GitHub Streak Stats"
   />
 </p>
