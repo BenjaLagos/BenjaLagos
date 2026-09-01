@@ -132,6 +132,7 @@ Sunday         26 commits     ██░░░░░░░░░░░░░░�
   <img
     src="./profile/top-langs.svg"
     width="420"
+    height="166"
     alt="Most Used Languages"
   />
 </p>
