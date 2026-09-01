@@ -64,7 +64,7 @@
     />
   </a>
 
-  <a href="mailto:TU_EMAIL@gmail.com">
+  <a href="mailto:benjalagosroa.bl@gmail.com">
     <img
       src="https://img.shields.io/badge/Gmail-65434A?style=for-the-badge&logo=gmail&logoColor=EA4335"
       alt="Gmail"
