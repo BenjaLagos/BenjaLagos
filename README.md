@@ -122,6 +122,7 @@ Sunday         26 commits     ██░░░░░░░░░░░░░░�
   <img src="https://img.shields.io/badge/GCP-40566B?style=for-the-badge&logo=googlecloud&logoColor=4285F4" alt="GCP">
 </p>
 </br>
+
 <p align="center">
   <img
     src="./profile/streak.svg"
@@ -131,7 +132,7 @@ Sunday         26 commits     ██░░░░░░░░░░░░░░�
   />
   <img
     src="./profile/top-langs.svg"
-    width="495"
+    width="420"
     alt="Most Used Languages"
   />
 </p>
