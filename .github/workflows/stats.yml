@@ -2,7 +2,7 @@ name: Update README cards
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs once daily at midnight
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -31,6 +31,14 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&theme=dark&langs_count=4&layout=compact&show_icons=true&include_all_commits=true&count_private=true&hide_border=true
           path: profile/top-langs.svg
+          token: ${{ secrets.GH_STATS_TOKEN }}
+
+      # Streak Stats
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=${{ github.repository_owner }}&theme=dark&hide_border=true&background=0B0F14&ring=88C0D0&fire=88C0D0&currStreakLabel=88C0D0&sideLabels=D8DEE9&dates=616E88&currStreakNum=ECEFF4&sideNums=ECEFF4
+          path: profile/streak.svg
           token: ${{ secrets.GH_STATS_TOKEN }}
 
       # Pin Card
