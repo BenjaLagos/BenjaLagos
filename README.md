@@ -126,13 +126,12 @@ Sunday         26 commits     ██░░░░░░░░░░░░░░�
 <p align="center">
   <img
     src="./profile/streak.svg"
-    width="495"
-    height="195"
+    width="475"
     alt="GitHub Streak Stats"
   />
   <img
     src="./profile/top-langs.svg"
-    width="495"
+    width="475"
     alt="Most Used Languages"
   />
 </p>
