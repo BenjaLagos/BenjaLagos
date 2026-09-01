@@ -16,3 +16,7 @@
 
 ```
 </div>
+
+<p align="center">
+  <img src="./profile/top-langs.svg" height="180" />
+</p>
