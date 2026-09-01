@@ -43,11 +43,11 @@ jobs:
             username=${{ github.repository_owner }}
             &layout=compact
             &langs_count=4
-            &hide_border=true
             &title_color=88C0D0
             &text_color=D8DEE9
-            &border_color=4C566A
+            &icon_color=81A1C1
             &bg_color=2E3440
+            &hide_border=true
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
